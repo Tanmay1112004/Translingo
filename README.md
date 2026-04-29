@@ -22,6 +22,12 @@ Translingo is a **real-time language translation system** that converts text int
 
 ---
 
+## Demo Images
+
+![demo]()
+
+---
+
 ## 🚨 Problem Statement
 
 In a global environment:
