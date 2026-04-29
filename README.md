@@ -24,7 +24,7 @@ Translingo is a **real-time language translation system** that converts text int
 
 ## Demo Images
 
-![demo]()
+![demo](https://github.com/Tanmay1112004/Translingo/blob/main/screenshots/Screenshot%202025-08-24%20195604.png)
 
 ---
 
