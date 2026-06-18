@@ -137,7 +137,7 @@ text-translator/
 ## 🚀 Run Locally
 
 ```bash id="run_trans"
-git clone https://github.com/Tanmay1112004/text-translator.git
+git clone https://github.com//text-translator.git
 cd text-translator
 pip install -r requirements.txt
 streamlit run app.py
